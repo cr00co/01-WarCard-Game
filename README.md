@@ -4,7 +4,7 @@
 
 |Description|
 |-----------|
-|This is a highly simplified version of the classic card game 'War', which relies purely on randomness and luck.|
+|This is simplified version of the classic card game 'War', which relies purely on randomness and luck.|
 
 |Rules of the Game|
 |-----------------|
