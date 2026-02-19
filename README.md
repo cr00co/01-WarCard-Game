@@ -1,6 +1,6 @@
 # (1) SwiftUI pet project (War Card Game)
 
-![Game Screenshot](pictures/War-card-game.png)
+![Game Screenshot](WarCardGameScreenshot.png)
 
 |Description|
 |-----------|
