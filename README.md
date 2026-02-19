@@ -1,10 +1,10 @@
 # (1) SwiftUI pet project (War Card Game)
 
-![Game Screenshot](pictures/War-card-game.png)
+![Game Screenshot](WarCardGameScreenshot.png)
 
 |Description|
 |-----------|
-|This is a highly simplified version of the classic card game 'War', which relies purely on randomness and luck.|
+|This is simplified version of the classic card game 'War', which relies purely on randomness and luck.|
 
 |Rules of the Game|
 |-----------------|

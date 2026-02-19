@@ -1,0 +1,19 @@
+# Xcode
+*.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+xcuserdata/
+DerivedData/
+build/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+.build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/test_output
